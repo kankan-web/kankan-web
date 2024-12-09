@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m 阿娟蛋
+- 👋🏻 Hi, I’m kankan
 - 📫 Email: 2728360489@qq.com
 - 😄 语雀: https://www.yuque.com/an-egg
 - ⚡ 微信: Anna_Andy666
