@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankan-web)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,5 +21,5 @@ SCSS                     1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/12/2024 01:50:32 UTC
+ Last Updated on 31/12/2024 01:47:00 UTC
 <!--END_SECTION:waka-->
